@@ -6,8 +6,11 @@ If you happen to have the ability to write a computer language, you can create t
 Interactivity is to bring cold digital products closer to our life and have close contact with our sensibility. In conclusion, discussing interactivity is actually discussing the role of human beings in science and technology. Boring programming actually has a deeper meaning, which also leads us to focus on when and how to combine design and art with programming.
 
 Learning log
+
 Introduction to arduino and open source
+
 Artist project research
+
 ![258995927500045172](https://user-images.githubusercontent.com/93599833/140442648-11ecdd89-b2fa-427c-a017-02f83ca488b3.jpg)
 
 https://refikanadol.com/works/virtual-depictions-san-francisco/
