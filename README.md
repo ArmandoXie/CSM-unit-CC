@@ -21,6 +21,5 @@ http://www.alejandroborsani.com/parts/sun.html
 
 The development of large-scale renewable sources of energy has become the quest of our time and the only possible future. Solar energy, therefore, has emerged as one of our saviors; the sun is once again the god of life. But what will happen when the sun disappears? Should we plan for such a distant future? Can we even imagine it? What happens after the future?
 The End of the Sun is a countdown system that utilizes solar energy to bring us closer to the distant future in which the sun will consume all its fuel and cool down — in about 14.4 billion years. Thus, this installation is a paradoxical countdown timer that starts at 454.118.400.000.000.000 (the number of seconds in 14.4 billion years) and utilizes solar energy to power its display and the electronic system.
-![draw_text(2)](https://user-images.githubusercontent.com/93599833/140449898-4a95cc69-8a4c-47a6-8a47-4bb8041e0055.png)
 
 This project is definitely challenging me to get out of my comfort zone to learn new techniques, it's because I haven't separated from my deep-rooted learning habits in the past into this whole new experience.
